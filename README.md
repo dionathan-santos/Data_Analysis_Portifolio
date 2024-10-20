@@ -1,7 +1,7 @@
 # Data_Analysis_Portifolio
 
 Edmonton's Real Estate Market - 2000 - 2024 New Houses Units Analysis
-[Click here to visualize the entire Notebook File](https://github.com/seu-usuario/data_analysis_portifolio/blob/main/Edmonton_Permits.ipynb)
+[Click here to visualize the entire Notebook File]([https://github.com/seu-usuario/data_analysis_portifolio/blob/main/Edmonton_Permits.ipynb](https://github.com/dionathan-santos/data_analysis_portifolio/blob/main/Edmonton_Permits.ipynb))
 
 
 ## Project: Edmonton Permits Analysis
