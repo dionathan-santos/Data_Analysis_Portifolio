@@ -29,7 +29,7 @@ The analysis was performed using the following tools and libraries:
 This project presents a comprehensive data analysis of **building permits** in Edmonton, focusing specifically on **new house units** added between the years covered in the dataset (2009 to 2024). The goal of this project was to explore trends, patterns, and insights about residential construction, including geographic distribution, seasonality, construction costs, and the impact of zoning and job categories. This repository demonstrates my expertise in **data wrangling**, **exploratory data analysis**, and **visualization** using **Python**.
 
 ## Dataset
-The dataset contains detailed information on building permits in Edmonton, extract from https://data.edmonton.ca/
+The dataset contains detailed information on building permits in Edmonton, extracted from https://data.edmonton.ca/
 
 ### Key Columns Used:
 - `UNITS_ADDED`: Number of new house units added.
@@ -43,7 +43,7 @@ The dataset contains detailed information on building permits in Edmonton, extra
 ### Trend of New House Units Over the Years
 I analyzed the trend in the number of new house units added to Edmonton over time. The data shows significant growth between 2009 and 2013, followed by fluctuating numbers, with a surge around 2020 due to possible increased housing demand during the pandemic.
 
-[**Number of new house units added per year**](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/2_Monthly%20Trend%20Of%20Units%20added%20(2020-2024)%20with%20highlights.jpg)
+![**Number of new house units added per year**](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/2_Monthly%20Trend%20Of%20Units%20added%20(2020-2024)%20with%20highlights.jpg)
 
 ### Top Neighborhoods for New House Unit Development
 Neighborhoods such as **Chappelle**, **Laurel**, **Windermere**, and **Walker** saw the newest units. This analysis helps identify hot spots for residential development within Edmonton.
