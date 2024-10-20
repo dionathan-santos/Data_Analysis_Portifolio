@@ -48,7 +48,7 @@ I analyzed the trend in the number of new house units added to Edmonton over tim
 ### Top Neighborhoods for New House Unit Development
 Neighborhoods such as **Chappelle**, **Laurel**, **Windermere**, and **Walker** saw the newest units. This analysis helps identify hot spots for residential development within Edmonton.
 
-[**Top 5 neighborhoods by total new house units added**](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/4_Top%205%20Neighbourhoods%20for%20New%20Units%20last%203%20years.jpg)
+![**Top 5 neighborhoods by total new house units added**](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/4_Top%205%20Neighbourhoods%20for%20New%20Units%20last%203%20years.jpg)
 
 ### Average Construction Value by Neighborhood
 The analysis of construction value reveals that neighborhoods like **Goodridge Corners** and **Desrochers Area** have the highest average construction values for new house units. This provides insights into the scale and cost of developments in different areas.
@@ -56,7 +56,7 @@ The analysis of construction value reveals that neighborhoods like **Goodridge C
 ### Seasonality of New House Unit Construction
 There is a clear seasonal trend, with March and May experiencing peaks in new house unit construction. This insight can be valuable for predicting future housing supply and scheduling construction activities.
 
-[**Units added by month**](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/2_Monthly%20Trend%20Of%20Units%20added%20(2020-2024)%20with%20highlights.jpg)
+![**Units added by month**](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/2_Monthly%20Trend%20Of%20Units%20added%20(2020-2024)%20with%20highlights.jpg)
 
 ### Most Common Building Types
 Among building types, **Apartments** and **Duplexes** are the most common for new house units, highlighting a trend toward multi-family dwellings in Edmonton.
@@ -64,7 +64,7 @@ Among building types, **Apartments** and **Duplexes** are the most common for ne
 ### Geographic Distribution of New House Units
 Using latitude and longitude data, we created a geographic distribution map of new house units. The results show significant clustering of new development in certain regions of the city.
 
-[**Geographic scatter plot showing the distribution of new house units**](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/7_Distribution%20of%20New%20Housing%20Units%20Edmonton.jpg)
+![**Geographic scatter plot showing the distribution of new house units**](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/7_Distribution%20of%20New%20Housing%20Units%20Edmonton.jpg)
 
 ### Proportion of Units in Larger Projects
 A significant portion (around **19.45%**) of new house units are part of larger projects like apartment buildings. This indicates a substantial share of multi-unit residential development in Edmonton.
@@ -72,18 +72,18 @@ A significant portion (around **19.45%**) of new house units are part of larger 
 ### Fluctuations During Economic Events
 There were observable fluctuations in the number of units added during major economic events such as the 2008-2010 recession and the 2020 pandemic, which saw a spike in new house construction.
 
-[**Fluctuations in new house units during economic events**](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/3_Monthly%20Trends%20of%20Units%20Added%20with%20Rolling%20Average.jpg)
+![**Fluctuations in new house units during economic events**](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/3_Monthly%20Trends%20of%20Units%20Added%20with%20Rolling%20Average.jpg)
 
 ### Correlation Between Permit Approval and Project Size
 There is a weak correlation (0.048) between the permit approval year and the number of units added, suggesting that permit timing does not heavily influence project size.
 
-[**Correlation heatmap between permit year and units added**](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/5_Coor%20Matrix.jpg)
+![**Correlation heatmap between permit year and units added**](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/5_Coor%20Matrix.jpg)
 
 ### Some other visualizations
 
-[**Cluster by Constructions Metrics in Edmonton**](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/8_Cluster%20for%20Contructions%20Paterns.jpg)
+![**Cluster by Constructions Metrics in Edmonton**](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/8_Cluster%20for%20Contructions%20Paterns.jpg)
 
-[**Distribution of Construction Value**](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/6_Distribution%20of%20Construction%20Value.jpg)
+![**Distribution of Construction Value**](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/6_Distribution%20of%20Construction%20Value.jpg)
 
 [**All visualizations in this Folder**](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/tree/secondary/Images)
 
