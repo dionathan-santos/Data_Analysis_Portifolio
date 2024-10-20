@@ -1,5 +1,9 @@
 # Data_Analysis_Portifolio
 
+Edmonton's Real Estate Market - 2000 - 2024 New Houses Units Analysis
+[Click here to visualize the entire Notebook File](https://github.com/seu-usuario/data_analysis_portifolio/blob/main/Edmonton_Permits.ipynb)
+
+
 ## Project: Edmonton Permits Analysis
 This project analyzes building permits data in Edmonton to identify trends and insights. Below are the main findings:
 
