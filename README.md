@@ -9,7 +9,7 @@ Edmonton's Real Estate Market - 2000 - 2024 New Houses Units Analysis
 This project analyzes building permits data in Edmonton to identify trends and insights. Below are the main findings:
 
 ### Key Findings
-- **Finding 1**: The number of building permits increased significantly during the summer months. ![Monthly Trend Of Units added (2020-2024) with highlights for Warmer Months.jpg]([images/your_image_name.png](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/2_Monthly%20Trend%20Of%20Units%20added%20(2020-2024)%20with%20highlights.jpg))
+- **Finding 1**: The number of building permits increased significantly during the summer months. ![Monthly Trend Of Units added (2020-2024) with highlights for Warmer Months.jpg](https://github.com/dionathan-santos/edmonton_real_estate_new_units_houses/blob/secondary/Images/2_Monthly%20Trend%20Of%20Units%20added%20(2020-2024)%20with%20highlights.jpg)
 - **Finding 2**: Residential permits were more frequent compared to commercial permits in the central areas.
 
 ### Screenshots
